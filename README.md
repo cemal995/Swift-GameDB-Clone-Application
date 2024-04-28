@@ -36,14 +36,18 @@ To install GameDB on your iOS device, follow these steps:
 ## Pictures
 
 Here are some screenshots of the GameDB app:
-1. ![Screenshot 1](![2](https://github.com/cemal995/gameDB_Graded_HomeWork-2/assets/148277734/8e536ae0-6025-40af-8520-d224c659581a)
-)
-2. ![Screenshot 2](![3](https://github.com/cemal995/gameDB_Graded_HomeWork-2/assets/148277734/1b16eb4a-b15d-462f-9da7-7a5bc1a00dd0)
-)
-3. ![Screenshot 3](![1](https://github.com/cemal995/gameDB_Graded_HomeWork-2/assets/148277734/fbc6fe0d-4533-4b34-a02d-97d5b45b98df)
-)
-4. ![Screenshot 4](![4](https://github.com/cemal995/gameDB_Graded_HomeWork-2/assets/148277734/8c487078-831c-4bb3-83ae-43998e2a2666)
-)
+1. Screenshot 1 ![Simulator Screenshot - iPhone 15 Pro - 2024-04-27 at 22 23 06](https://github.com/cemal995/gameDB_Graded_HomeWork-2/assets/148277734/55eb65b9-9078-4066-9894-9bf2e1f09dba)
+
+
+2. Screenshot 2 ![Simulator Screenshot - iPhone 15 Pro - 2024-04-27 at 22 22 29](https://github.com/cemal995/gameDB_Graded_HomeWork-2/assets/148277734/191d9a05-e929-47b9-9b27-e4ab11b92189)
+
+
+3. Screenshot 3 ![Simulator Screenshot - iPhone 15 Pro - 2024-04-27 at 22 22 49](https://github.com/cemal995/gameDB_Graded_HomeWork-2/assets/148277734/362a5ad7-84fa-4212-8e5a-f0605aa8d7bb)
+
+
+4. Screenshot 4 ![Simulator Screenshot - iPhone 15 Pro - 2024-04-27 at 22 23 31](https://github.com/cemal995/gameDB_Graded_HomeWork-2/assets/148277734/ffe9d8bc-9121-4575-9838-ab2f9a68815a)
+
+
 
 
 ## Contributing
